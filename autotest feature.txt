@@ -1,1 +1,2 @@
 print("autotest")
+print("test need mode")

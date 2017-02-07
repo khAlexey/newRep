@@ -1,0 +1,4 @@
+print("autotest")
+print("test need mode")
+print("test 1st phase")
+print("prepearing for test phase")

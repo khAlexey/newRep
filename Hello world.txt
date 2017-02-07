@@ -1,10 +1,10 @@
-print("Hello world");
-print("Hello everybody");
-print("test");
-print("testv1");
-print("testv2");
-print("testv3");
-print("testv4");
-print("Hello");
-print("prepearing for 2.0")
-print("start 2.0 test")
+print("Hello world;");
+print("Hello everybody;");
+print("test;");
+print("testv1;");
+print("testv2;");
+print("testv3;");
+print("testv4;");
+print("Hello;");
+print("prepearing for 2.0;")
+print("start 2.0 test;")

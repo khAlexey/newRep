@@ -1,2 +1,3 @@
 print("autotest")
 print("test need mode")
+print("test 1st phase")

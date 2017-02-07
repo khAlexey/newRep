@@ -1,8 +1,8 @@
-print("Hello world");
-print("Hello everybody");
-print("test");
-print("testv1");
-print("testv2");
-print("testv3");
-print("testv4");
-print("Hello");
+print("Hello world;");
+print("Hello everybody;");
+print("test;");
+print("testv1;");
+print("testv2;");
+print("testv3;");
+print("testv4;");
+print("Hello;");

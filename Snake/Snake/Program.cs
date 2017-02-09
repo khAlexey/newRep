@@ -11,7 +11,6 @@ namespace Snake
         static void Main(string[] args)
         {
             Console.Write("Hello World!");
-            Console.Write("test v1");
             Console.ReadLine();
         }
     }
